@@ -1,0 +1,180 @@
+body {
+  background: #161a16;
+  padding: 10px;
+}
+/* .container {
+  display: flex;
+} */
+h1 {
+  margin-left: 30px;
+  background-color: transparent;
+  padding: 20px;
+  font-size: 50px;
+  color: #bd2619;
+  /* margin-right: 70%; */
+  text-align: center;
+}
+
+.sec1 {
+  width: 500px;
+  /* height: 450px; */
+  margin-top: 5px;
+  font-size: 20px;
+  /* display: flex; */
+  color: white;
+}
+.htcss {
+  line-height: 28px;
+  background-color: #072d5f;
+  color: #bd2619;
+  font-weight: 400;
+  margin-bottom: 20px;
+  margin-right: 60%;
+  text-align: center;
+  font-weight: bold;
+}
+.sec2 {
+  width: 500px;
+  /* height: 100px; */
+  margin-top: 10px;
+  /* display: flex; */
+  font-size: 20px;
+  color: white;
+  padding-right: 60%;
+  /* float: right; */
+}
+.reactt {
+  line-height: 28px;
+  background-color: #072d5f;
+  color: #bd2619;
+  font-weight: 400;
+  margin-bottom: 20px;
+  margin-right: 60%;
+  /* float: right; */
+  margin-top: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+.sec3 {
+  width: 500px;
+  /* height: 450px; */
+  margin-top: 10px;
+  /* display: flex; */
+  font-size: 20px;
+  color: white;
+}
+.ns {
+  line-height: 28px;
+  background-color: #072d5f;
+  color: #bd2619;
+  font-weight: 400;
+  margin-bottom: 24px;
+  margin-right: 60%;
+  text-align: center;
+  font-weight: bold;
+}
+.sec4 {
+  width: 500px;
+  /* height: 450px; */
+  margin-top: 10px;
+  /* display: flex; */
+  font-size: 20px;
+  color: white;
+}
+.jd {
+  line-height: 28px;
+  background-color: #072d5f;
+  color: #bd2619;
+  font-weight: 400;
+  margin-bottom: 24px;
+  margin-right: 60%;
+  text-align: center;
+  font-weight: bold;
+}
+.sec5 {
+  width: 500px;
+  /* height: 450px; */
+  margin-top: 10px;
+  /* display: flex; */
+  font-size: 20px;
+  color: white;
+}
+.psd {
+  line-height: 28px;
+  background-color: #072d5f;
+  color: #bd2619;
+  font-weight: 400;
+  margin-bottom: 24px;
+  margin-right: 60%;
+  text-align: center;
+  font-weight: bold;
+}
+.sec6 {
+  width: 500px;
+  /* height: 450px; */
+  margin-top: 10px;
+  /* display: flex; */
+  font-size: 20px;
+  color: white;
+}
+.thes {
+  line-height: 28px;
+  color: #bd2619;
+  font-weight: 400;
+  margin-bottom: 24px;
+  margin-right: 60%;
+  background-color: #072d5f;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* .httss {
+  background-color: rgb(119, 38, 38);
+  color: #fff;
+  font-size: 16px;
+  font-weight: 300;
+  margin: 20px 600px 100px;
+  display: inline-block;
+  padding: 20px 50px 70px;
+  width: 40%;
+} */
+
+/* .reacttdes {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 300;
+  margin: 20px 600px 100px;
+  display: block;
+} */
+
+/* .nsdes {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 300;
+  margin: 20px 500px 100px;
+  display: block;
+} */
+
+/* .jddes {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 300;
+  margin: 20px 700px 100px;
+  display: block;
+} */
+
+/* .psdes {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 300;
+  margin: 20px 700px 100px;
+  display: block;
+} */
+
+/* .thesdes {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 300;
+  margin: 20px 700px 100px;
+  display: block;
+} */

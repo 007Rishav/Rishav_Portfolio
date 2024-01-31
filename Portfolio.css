@@ -1,0 +1,148 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins" sans-serif;
+}
+
+body {
+  background: #161a16;
+}
+.logo {
+  font-size: 35px;
+  font-weight: 700;
+  text-decoration: none;
+  color: white;
+}
+.header span {
+  color: #bd2619;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 10%;
+  background: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 100;
+}
+/* home-content */
+
+.home-content p {
+  font-size: 25px;
+  margin: 20px 0 40px;
+}
+.home span {
+  color: #bd2619;
+}
+
+.name {
+  color: #bd2619;
+}
+
+/* navbar */
+.navbar a {
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  color: aliceblue;
+  margin-left: 10px;
+}
+.navbar a:hover {
+  color: #bd2619;
+  transition-duration: 0.5s;
+}
+
+.home {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  color: white;
+  padding: 0 10%;
+  /* background: url(my.jpg) no-repeat right; */
+}
+.home-content {
+  max-width: 600px;
+  letter-spacing: 1px;
+}
+.home-content h1 {
+  font-size: 55px;
+  font-weight: 900;
+}
+.home-content h2 {
+  color: #bd2619;
+  font-size: 28px;
+}
+
+.home-content .btn-box {
+  justify-content: space-between;
+  /* align-items: center; */
+  display: flex;
+  width: 340px;
+  height: 45px;
+}
+
+/* <!-- BUTTON --> */
+
+.btn-box a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 100%;
+  border-radius: 10px;
+  border: 2px solid #bd2619;
+  background: #bd2619;
+  text-decoration: none;
+  color: white;
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+.btn-box a:nth-child(2) {
+  background: transparent;
+}
+.btn-box a:nth-child(2):hover {
+  color: #bd2619;
+  transition: 0.5s;
+}
+.btn-box a:nth-child(1):hover {
+  color: black;
+  transition: 0.5s;
+}
+
+/* <!-- SOCIAL-BUTTONS --> */
+.social a {
+  text-decoration: none;
+  font-size: 40px;
+  /* background-color: #bd2619; */
+  color: white;
+  border-radius: 20px;
+  align-items: center;
+  background-size: 50px;
+  justify-items: left;
+  background: transparent;
+  letter-spacing: 5px;
+  /* width: 40px; */
+  margin: 20px 0 40px;
+}
+.social a:nth-child(2):hover {
+  color: #0077b5;
+}
+.social a:nth-child(3):hover {
+  color: #34a853;
+}
+.social a:first-child:hover {
+  color: grey;
+}
+.social a:nth-child(4):hover {
+  color: #0668e1;
+}
+.social a:hover {
+  transition: 0.5s;
+  color: #bd2619;
+}
